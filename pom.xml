@@ -1,0 +1,21 @@
+<project>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.kornkan</groupId>
+	<artifactId>java-spring-boot</artifactId>
+	<version>demo</version>
+	<dependencies>
+		<dependency> 
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+			<version>LATEST</version>
+		</dependency>
+	</dependencies>
+	<build>
+		<sourceDirectory>code</sourceDirectory>
+		<testSourceDirectory>test</testSourceDirectory>
+	</build>
+	<properties>
+		<maven.compiler.source>22</maven.compiler.source>
+		<maven.compiler.target>22</maven.compiler.target>
+	</properties>
+</project>
