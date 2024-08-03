@@ -1,5 +1,5 @@
 # Overview
-This Spring Boot application provides a simple REST API to fetch the current price of cryptocurrencies from Coinbase. The application demonstrates basic integration with the Coinbase API and is built using Java and Spring Boot.
+This Spring Boot application provides a REST API to fetch the current price of cryptocurrencies from Coinbase. The application demonstrates basic integration with the Coinbase API and is built using Java and Spring Boot.
 # Running the Application
 1. Ensure you have Java and Maven installed.
 2. Clone the repository: git clone <repository-url>
