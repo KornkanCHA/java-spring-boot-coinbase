@@ -1,7 +1,7 @@
 <project>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.kornkan</groupId>
-	<artifactId>java-spring-boot</artifactId>
+	<artifactId>java-spring-boot-coinbase</artifactId>
 	<version>demo</version>
 	<dependencies>
 		<dependency> 
